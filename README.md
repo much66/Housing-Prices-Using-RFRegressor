@@ -119,6 +119,7 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
    - Pertimbangkan untuk melakukan renovasi atau pemeliharaan secara rutin, karena rumah yang lebih terurus dan diperbarui (`YearRemodAdd`) menunjukkan nilai yang lebih tinggi. Rumah yang terawat dengan baik cenderung memiliki harga jual yang lebih baik di pasar.
  
 <p align="center">
-    <kbd> > <img width="1000" alt="st1" src="Dashboard.jpg"></kbd> <br>
-    Gambar 3 — [Dashboard](https://lookerstudio.google.com/reporting/8ca7f8ae-8867-4555-824b-7d8e8834dd4c)
+    <kbd><a href="https://lookerstudio.google.com/reporting/8ca7f8ae-8867-4555-824b-7d8e8834dd4c" target="_blank"><img width="1000" alt="Dashboard" src="Dashboard.jpg"></a></kbd> <br>
+    Gambar 3 — <a href="https://lookerstudio.google.com/reporting/8ca7f8ae-8867-4555-824b-7d8e8834dd4c" target="_blank">Dashboard</a>
 </p>
+
