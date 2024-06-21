@@ -117,3 +117,8 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
    - Investasi dalam properti yang terletak di lingkungan bernilai tinggi seperti `NridgHt` dapat memberikan pengembalian yang lebih baik. Pertimbangkan lokasi dengan akses mudah ke fasilitas utama dan lingkungan yang diminati.
 - Perawatan dan Pemeliharaan Rumah:
    - Pertimbangkan untuk melakukan renovasi atau pemeliharaan secara rutin, karena rumah yang lebih terurus dan diperbarui (`YearRemodAdd`) menunjukkan nilai yang lebih tinggi. Rumah yang terawat dengan baik cenderung memiliki harga jual yang lebih baik di pasar.
+ 
+<p align="center">
+    <kbd> > <img width="1000" alt="st1" src="dashboard.jpg"></kbd> <br>
+    Gambar 3 — Dashboard
+</p>
