@@ -96,12 +96,12 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
 
 <div style="display: flex; justify-content: center;">
     <div style="margin-right: 10px;">
-        <kbd> <img width="400" alt="feats" src="XGBosot.png"> </kbd> <br>
+        <kbd> <img width="400" alt="feats" src="XGBoost.png"> </kbd> <br>
         Gambar 1 — Final XGBoost Evaluation
     </div>
   <br>
     <div style="margin-left: 10px;">
-        <kbd> <img width="400" alt="feats" src="RForest.png"> </kbd> <br>
+        <kbd> <img width="400" alt="feats" src="Random Forest.png"> </kbd> <br>
         Gambar 2 — Final Random Forest Evaluation
     </div>
 </div>
