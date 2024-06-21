@@ -6,10 +6,11 @@
 <br>
 
 **Table of Contents**
-- [Business Understanding]()
-- [Workflow]()
-- [Insight]()
-- [Modeling and Evaluation]()
+- [Business Understanding](https://github.com/much66/Housing-Prices-Using-RFRegressor/blob/main/README.md#-business-understanding)
+- [Workflow](https://github.com/much66/Housing-Prices-Using-RFRegressor/blob/main/README.md#-workflow)
+- [Insight](https://github.com/much66/Housing-Prices-Using-RFRegressor/blob/main/README.md#-insight)
+- [Modeling and Evaluation](https://github.com/much66/Housing-Prices-Using-RFRegressor/blob/main/README.md#-modeling-and-evaluation)
+- [Recommendation](https://github.com/much66/Housing-Prices-Using-RFRegressor/blob/main/README.md#-recommendations)
 <br>
 
 
