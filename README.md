@@ -120,5 +120,5 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
  
 <p align="center">
     <kbd> > <img width="1000" alt="st1" src="Dashboard.jpg"></kbd> <br>
-    Gambar 3 — Dashboard
+    Gambar 3 — [Dashboard](https://lookerstudio.google.com/reporting/8ca7f8ae-8867-4555-824b-7d8e8834dd4c)
 </p>
