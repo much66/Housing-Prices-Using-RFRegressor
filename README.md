@@ -99,7 +99,7 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
         <kbd> <img width="400" alt="feats" src="XGBoost.png"> </kbd> <br>
         Gambar 1 — Final XGBoost Evaluation
     </div>
-  <br>
+  <br><br>
     <div style="margin-left: 10px;">
         <kbd> <img width="400" alt="feats" src="Random Forest.png"> </kbd> <br>
         Gambar 2 — Final Random Forest Evaluation
@@ -110,13 +110,16 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
 
 
 ## 📂 Recommendations
+- Penentuan Harga Rumah dengan Random Forest Regressor:
+    - Gunakan model Random Forest Regressor untuk mengevaluasi faktor-faktor yang paling berpengaruh terhadap penentuan harga rumah.
+    - Identifikasi variabel-variabel yang memiliki kontribusi signifikan dalam menentukan harga rumah berdasarkan analisis model Random Forest.
 - Fokus pada Kualitas dan Ukuran:
    - Pertimbangkan untuk meningkatkan kualitas material dan penyelesaian rumah, seperti memperbaiki atau mengganti elemen-elemen utama yang dapat meningkatkan `OverallQual` dan `OverallCond`.
    - Perluas ruang lantai di atas tanah (`GrLivArea`) dan pertimbangkan untuk memperbesar lahan (`LotArea`) jika memungkinkan, karena ini merupakan faktor signifikan dalam meningkatkan nilai rumah.
-- Lokasi yang Strategis:
-   - Investasi dalam properti yang terletak di lingkungan bernilai tinggi seperti `NridgHt` dapat memberikan pengembalian yang lebih baik. Pertimbangkan lokasi dengan akses mudah ke fasilitas utama dan lingkungan yang diminati.
 - Perawatan dan Pemeliharaan Rumah:
    - Pertimbangkan untuk melakukan renovasi atau pemeliharaan secara rutin, karena rumah yang lebih terurus dan diperbarui (`YearRemodAdd`) menunjukkan nilai yang lebih tinggi. Rumah yang terawat dengan baik cenderung memiliki harga jual yang lebih baik di pasar.
+ 
+## 📂 Dashboard
  
 <p align="center">
     <kbd><a href="https://lookerstudio.google.com/reporting/8ca7f8ae-8867-4555-824b-7d8e8834dd4c" target="_blank"><img width="1000" alt="Dashboard" src="Dashboard.jpg"></a></kbd> <br>
