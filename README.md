@@ -36,10 +36,40 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
 
 
 ## 📂 Workflow
-<p align="center">
-    <kbd> <img width="1000" alt="workflow" src="#"> </kbd> <br>
-    Gambar 1 — Workflow Pembuatan Model
-</p>
+
+- Data Mentah
+   - Mengumpulkan dataset yang mencakup informasi rumah residensial di Ames, Iowa.
+   - Memperoleh data mengenai fitur-fitur rumah seperti ukuran, lokasi, kondisi, dan harga jual.
+
+- Preprocessing Data
+   - Memeriksa dan membersihkan data dari nilai-nilai yang hilang atau tidak valid.
+   - Melakukan penanganan outlier, misalnya dengan menggunakan Z-score normalization untuk mengatasi outlier pada fitur-fitur seperti `GrLivArea` dan `LotArea`.
+
+- Exploratory Data Analysis (EDA)
+   - Menganalisis distribusi fitur-fitur utama seperti harga rumah, kualitas material (`OverallQual`), luas lantai (`GrLivArea`), dan lokasi.
+   - Mengidentifikasi korelasi antara fitur-fitur dan mengeksplorasi pola-pola menarik dalam data.
+
+- Feature Engineering
+   - Membuat fitur baru yang dapat meningkatkan kemampuan model, seperti umur rumah (`YearBuilt`) dan informasi tambahan tentang lingkungan (`Neighborhood`).
+   - Transformasi variabel kategorikal menjadi bentuk yang dapat diproses oleh model, misalnya menggunakan teknik encoding seperti One-Hot Encoding.
+
+- Pembagian Dataset
+   - Memisahkan dataset menjadi dua bagian: data pelatihan (80%) dan data pengujian (20%) untuk menguji kinerja model.
+
+- Modeling
+   - Menggunakan berbagai algoritma machine learning seperti XGBoost dan Random Forest untuk membangun model prediktif.
+   - Melakukan tuning hyperparameter untuk meningkatkan performa model.
+   - Melakukan validasi silang (cross-validation) untuk menguji keandalan model.
+
+- Evaluasi Model 
+   - Mengevaluasi performa model menggunakan metrik yang sesuai seperti R2 Score dan Mean Absolute Error untuk regresi.
+   - Membandingkan performa berbagai model untuk memilih model terbaik.
+
+- Pembuatan Dashboard Interaktif dengan Looker Studio
+   - Menggunakan hasil rekomendasi dari model terbaik, buat dashboard interaktif menggunakan Looker Studio.
+   - Tambahkan visualisasi dan filter interaktif untuk memperjelas dan memudahkan pemahaman hasil rekomendasi.
+   - Atur tata letak dashboard agar informasi disajikan dengan jelas dan efisien.
+
 <br>
 
 ## 📂 Insight
@@ -68,6 +98,7 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
         <kbd> <img width="400" alt="feats" src="XGBosot.png"> </kbd> <br>
         Gambar 1 — Final XGBoost Evaluation
     </div>
+  <br>
     <div style="margin-left: 10px;">
         <kbd> <img width="400" alt="feats" src="RForest.png"> </kbd> <br>
         Gambar 2 — Final Random Forest Evaluation
