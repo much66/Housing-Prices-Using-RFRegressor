@@ -77,7 +77,7 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
 - Distribusi Harga Rumah: Rata - rata harga rumah di dataset ini adalah $176,000, dengan harga tertinggi mencapai $446,000 dan harga terendah $34,900.
 - Faktor Utama yang Mempengaruhi Harga Rumah:
   - Kualitas Material dan Selesai: Rumah dengan kualitas material dan selesai yang lebih tinggi (misalnya, OverallQual dan OverallCond) memiliki harga yang signifikan lebih tinggi.
-  - Ukuran Rumah: Luas lantai di atas tanah (GrLivArea) dan total area basement (TotalBsmtSF) secara signifikan berkontribusi terhadap harga rumah.
+  - Ukuran Rumah: Luas lantai di atas tanah (GrLivArea) dan total luas area keseluruhan bangunan (TotalSF) secara signifikan berkontribusi terhadap harga rumah.
   - Lokasi: Zoning Classification, seperti di lingkungan Floating Village, menunjukkan harga yang lebih tinggi dibandingkan dengan lingkungan lainnya.
   - Fitur Ekstra: Keberadaan fitur tambahan seperti garasi (GarageCars), kolam renang (PoolArea), dan renovasi terbaru (YearRemodAdd) juga meningkatkan nilai rumah.
 <br>
@@ -94,7 +94,7 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
 
 
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
     <div style="margin-right: 10px;">
         <kbd> <img width="400" alt="feats" src="XGBoost.png"> </kbd> <br>
         Gambar 1 — Final XGBoost Evaluation
