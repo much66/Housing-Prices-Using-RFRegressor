@@ -96,6 +96,6 @@ b. Mengidentifikasi Faktor Kunci Penentu Harga:
  
 <p align="center">
     <kbd><a href="https://lookerstudio.google.com/reporting/8ca7f8ae-8867-4555-824b-7d8e8834dd4c" target="_blank"><img width="1000" alt="Dashboard" src="Dashboard.jpg"></a></kbd> <br>
-    Gambar 4 — <a href="https://lookerstudio.google.com/reporting/8ca7f8ae-8867-4555-824b-7d8e8834dd4c" target="_blank">Dashboard</a>
+    Gambar 4 — Housing Price Dashboard
 </p>
 
